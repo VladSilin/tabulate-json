@@ -1,1 +1,1 @@
-export * from './json-tabulate';
+export * from './tabulate-json';
