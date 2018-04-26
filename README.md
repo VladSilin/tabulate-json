@@ -1,4 +1,4 @@
-# json-tabulate
+# tabulate-json
 Creates tables out of JSON data
 
 ## Functionality
