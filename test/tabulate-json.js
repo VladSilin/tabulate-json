@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 import colors from 'colors';
-import { tabulate, consoleTable, markdownTable } from '../src/json-tabulate';
+import { tabulate, consoleTable, markdownTable } from '../src/tabulate-json';
 
 describe('tabular-visualizer tests', () => {
   const testHeaders = ['Parsed Size (bytes)', 'Gzipped Size (bytes)', 'Asset'];

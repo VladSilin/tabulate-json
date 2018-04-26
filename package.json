@@ -1,5 +1,5 @@
 {
-  "name": "json-tabulate",
+  "name": "tabulate-json",
   "version": "1.0.0",
   "description": "Creates tables out of JSON data",
   "main": "dist/index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladSilin/json-tabulate.git"
+    "url": "git+https://github.com/VladSilin/tabulate-json.git"
   },
   "author": "Vlad Silin <vlad.silin.y@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VladSilin/json-tabulate/issues"
+    "url": "https://github.com/VladSilin/tabulate-json/issues"
   },
-  "homepage": "https://github.com/VladSilin/json-tabulate#readme",
+  "homepage": "https://github.com/VladSilin/tabulate-json#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
